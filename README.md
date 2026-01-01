@@ -1,5 +1,5 @@
-# Graduate Education Scholarships, Awards, Fellowships, and Opportunities for African Students
-This repository contains a list of scholarships, awards, and fellowship opportunities for graduate students from African Countries.
+# Graduate Education Scholarships, Awards, and Fellowships for African Students
+This repository contains a list of scholarships, awards, and fellowship opportunities for graduate students from African Countries. The list is not exhaustive, we updated it as frequently as we can.
 
 ## Scholarships
 | Location      | Name          | Level         | Deadline      |
