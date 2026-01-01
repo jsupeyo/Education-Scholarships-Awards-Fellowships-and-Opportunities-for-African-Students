@@ -9,3 +9,8 @@ This repository contains a list of scholarships, awards, and fellowship opportun
 | Africa | [Intra Africa Education Scholarships](https://www.eacea.ec.europa.eu/scholarships/intra-africa-scholarships-0_en) | Masters & PhD | Varies |
 | China | [Peking University Scholarship for International Students](https://isd.pku.edu.cn/en/detail.php?id=525) | Undergraduate, Masters, & PhD | January and March |
 | China | [ Yenching Scholars Program](https://yenchingacademy.pku.edu.cn/ACADEMY.htm#66) | Masters | December |
+| Global | [[The Aga Khan Foundation’s International Scholarship Programme](https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships)] | Masters & PhD | Varies |
+| South Africa & United Kingdom | [The Beit Trust Scholarships](https://beittrust.org.uk/beit-trust-scholarships/) | Masters & PhD | February |
+| United Kingdom | [The Ibrahim Scholarships](https://mo.ibrahim.foundation/scholarships) | Masters | Varies |
+| United Kingdom | [Chevening Scholarships](https://www.chevening.org/scholarships/) | Masters | Varies |
+| United Kingdom | [ Commonwealth Scholarships](https://cscuk.fcdo.gov.uk/about-us/scholarships/) | Masters (both in-person and distant learning), & PhD | Varies |
