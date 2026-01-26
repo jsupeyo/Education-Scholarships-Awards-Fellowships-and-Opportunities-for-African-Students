@@ -24,7 +24,7 @@ This repository contains a list of scholarships, awards, and fellowship opportun
 | Ireland | [Government of Ireland International Education Scholarships](https://hea.ie/policy/internationalisation/goi-ies/)| Masters, Postgraduate Diploma & PhD | March |
 | U.S., Europe, Africa, Oceania and Japan | [Joint Japan/World Bank Graduate Scholarship Program](https://www.worldbank.org/en/programs/scholarships/jj-wbgsp)| Masters | February and May |
 | South Africa | [The Mandela Rhodes Scholarship](https://www.mandelarhodes.org/scholarship/)| Masters | April |
-
+| United States, United Kingdom, Japan, Australia, Sweden | [ Rotary International Peace Fellowship](https://my.rotary.org/en/peace-fellowship-application) | Masters & Certificate Programs | May |
 
 If your area of interest is computer science, this [repository](https://github.com/chinasatokolo/csGraduateFellowships) offers a more detailed curation of resources!
 
